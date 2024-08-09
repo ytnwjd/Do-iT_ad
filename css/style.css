@@ -5,17 +5,21 @@ body {
     font-family: Arial, sans-serif;
 }
 
-h1, h2 {
+h1, h2, h3 {
     color: white;
+    text-align: center;
     margin: 0;
     padding: 0;
 }
 
 .ad_text {
-    text-align: center;
     margin-top: 80px;
     margin-bottom: 30px;
     padding: 0 10px;
+}
+
+.ad_text h3{
+    margin-top: 15px;
 }
 
 .map_img {
