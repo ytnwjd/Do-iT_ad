@@ -1,0 +1,19 @@
+body {background: black}
+h1, h2 {color: white}
+
+.ad_text {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.map_img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.map_img h2 {
+    width: 100%;
+    padding-left: 50%;
+}
